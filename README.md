@@ -13,4 +13,3 @@ Zonal Cyber Risk methodology.
 
 ## Contents
 - [Full Report](./report.md)
-- [Risk Register](./risk-register.md) 

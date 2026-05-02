@@ -1,5 +1,5 @@
 # IEC 62443 Cybersecurity Risk Assessment
-**Module:** WM9C4-15 | **Framework:** IEC 62443-3-2
+ | **Framework:** IEC 62443-3-2
 
 ## Overview
 A cybersecurity audit of a UK vehicle manufacturer's manufacturing plant and 
